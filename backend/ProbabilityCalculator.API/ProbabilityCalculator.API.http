@@ -1,0 +1,6 @@
+@ProbabilityCalculator.API_HostAddress = http://localhost:5287
+
+GET {{ProbabilityCalculator.API_HostAddress}}/Calculator/
+Accept: application/json
+
+###
