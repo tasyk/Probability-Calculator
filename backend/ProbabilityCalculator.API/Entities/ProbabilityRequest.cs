@@ -1,5 +1,4 @@
-﻿//using Microsoft.OpenApi.Models;
-using ProbabilityCalculator.API.Services;
+﻿using ProbabilityCalculator.API.Services;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.Text.Json.Serialization;

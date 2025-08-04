@@ -1,9 +1,4 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.OpenApi.Models;
-using ProbabilityCalculator.API.Services;
+﻿using ProbabilityCalculator.API.Services;
 using Scalar.AspNetCore;
 using System.Text.Json.Serialization;
 
